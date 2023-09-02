@@ -55,3 +55,4 @@ body {
     0%   { transform: rotateY(0deg) rotateX(0deg); }
     25%  { transform: rotateY(90deg) rotateX(0deg); }
     50%  { transform: rotateY(180deg) rotateX(0deg); }
+    75%  { transform: rotateY(270deg) rotateX(0deg); }
